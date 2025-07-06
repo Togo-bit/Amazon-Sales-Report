@@ -16,7 +16,7 @@ The dataset contains order-level sales information, including:
 
 **Source:** https://www.kaggle.com/code/youssefelbadry10/e-commerce-sales-eda/input
 
-## 3)Objectives
+# 3)Objectives
 - Which product category has the most revenue?
 - Which city has the most number of orders?
 - How many orders are from Amazon vs Merchant
